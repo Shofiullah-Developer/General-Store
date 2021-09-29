@@ -1,4 +1,4 @@
-# General-Store:
+  # General-Store:
   it creates for web design practice
   ##uses technology:
     1.HTML
